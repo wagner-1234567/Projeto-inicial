@@ -49,5 +49,10 @@ namespace Biblioteca.Controllers
         {
             return View();
         }
+
+        public IActionResult Usuario()
+        {
+            return View();
+        }
     }
 }
